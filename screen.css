@@ -1,0 +1,33 @@
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card-title {
+    color: #333; 
+}
+.section.news {
+    background-color: #f8f9fa; 
+}
+
+.header {
+    background-color: #E60012; 
+    color: #fff; 
+    text-align: center; 
+    padding: 50px 20px; 
+    border-bottom: 2px solid #ddd; 
+}
+.header h1, .header h2 {
+    margin: 0; 
+}
+.header a.btn {
+    background-color: #fff; 
+    color: #E60012;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block; 
+    margin: 5px; 
+}
+.header a.btn:hover {
+    background-color: #E60012; 
+    color: #fff; 
+}
