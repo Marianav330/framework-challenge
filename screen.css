@@ -8,26 +8,6 @@
     background-color: #E60012; 
 }
 
-.header {
-    background-color: #E60012; 
-    color: #fff; 
-    text-align: center; 
-    padding: 50px 20px; 
-    border-bottom: 2px solid #ddd; 
-}
-.header h1, .header h2 {
-    margin: 0; 
-}
-.header a.btn {
-    background-color: #fff; 
-    color: #E60012;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    display: inline-block; 
-    margin: 5px; 
-}
-.header a.btn:hover {
-    background-color: #E60012; 
-    color: #fff; 
+.custom-header {
+    background-color: #E60012; /* Red background */
 }
